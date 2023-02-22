@@ -37,8 +37,6 @@ Collected data from a hackathon. It has data of around 50K houses across differe
 <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/sctter_plot.png" width="600" height="400" > <br>
 </p>  <br>
 
-<br>
-
 ## Models
 Applied the following regression algorithms - Lasso, Ridge, Enet, Random forest and Gradient boosting. These algorithms are also used to deal with the problems like overfitting. Created Pipelines for each regression algorithm with different hyperparameters. 
 <br>
