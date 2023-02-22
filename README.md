@@ -10,8 +10,8 @@ Collected data from a hackathon. It has data of around 50K houses across differe
 <br>
 <br>
 <p>                                                                                                                      
-<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/lat_long.png" width="480" height="380" align="right">
-<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/heatmap.png" width="480" height="380" align="left"> <br>
+<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/lat_long.png" width="380" height="380" align="right">
+<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/heatmap.png" width="380" height="380" align="left"> <br>
 </p>  <br>
 <br>
 <br>
@@ -26,10 +26,10 @@ Collected data from a hackathon. It has data of around 50K houses across differe
 <br><br>
 <br>
 <br>
-<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/piecharts.png" width="1000" height="150"> <br>
+<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/piecharts.png" width="800" height="150"> <br>
 
 <p align="center">                                                                                                            
-<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/sctter_plot.png" width="600" height="400" > 
+<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/sctter_plot.png" width="500" height="400" > 
 </p> 
 
 ## Models
