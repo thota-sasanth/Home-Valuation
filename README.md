@@ -14,11 +14,13 @@ Home Valuation model can be a very important tool for both the seller and the bu
 Collected data from a hackathon. It has data of around 50K houses across different Indian cities. Done some data cleaning and features extraction. Some of the key attributes are - 1. Area 2. Year_built 3. BHK_NO 4. Furnishing 5. RERA_Approved. Here are few data visualizations such as correlation heatmaps, scatter plots, pie charts, etc. 
 <br>
 <br>
-<p>
-  <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/heatmap.png" width="400" height="300" align="left">
-  
-</p>
+<p align = "center">                                                                                                                      
 <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/lat_long.png" width="500" height="400" align="center">
+</p>  
+<p align="left">
+  <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/heatmap.png" width="400" height="300" align="left">
+</p>
+                                                                                                          
 <br>
   
   <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/piecharts.png" width="1200" height="200">
