@@ -21,6 +21,22 @@ Collected data from a hackathon. It has data of around 50K houses across differe
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
 <p align="center">
   <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/piecharts.png" width="1200" height="200">
 </p>
