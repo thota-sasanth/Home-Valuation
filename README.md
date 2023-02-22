@@ -32,9 +32,7 @@ Collected data from a hackathon. It has data of around 50K houses across differe
 <br>
 <br>
 <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/piecharts.png" width="1000" height="150"> <br>
-<br>
-<br>
-<br>
+
 <p>                                                                                                                      
 <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/sctter_plot.png" width="480" height="380" align="right">
 <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/bhkno.png" width="480" height="380" align="left"> <br>
