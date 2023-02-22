@@ -16,13 +16,13 @@ Collected data from a hackathon. It has data of around 50K houses across differe
 <br>
 <p>                                                                                                                      
 <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/lat_long.png" width="480" height="380" align="right">
-<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/heatmap.png" width="480" height="380" align="left">
-</p>  
+<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/heatmap.png" width="480" height="380" align="left"> <br>
+</p>  <br>
 <br>
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/heatmap.png" width="500" height="400">
+  <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/piecharts.png" width="500" height="400">
 </p>
                                                                                                           
 <br>
