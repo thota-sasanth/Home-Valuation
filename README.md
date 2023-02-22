@@ -35,7 +35,7 @@ Collected data from a hackathon. It has data of around 50K houses across differe
 
 <p>                                                                                                                      
 <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/sctter_plot.png" width="480" height="380" align="right">
-<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/bhkno.png" width="480" height="380" align="left"> <br>
+<img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/bhkno.png" width="500" height="380" align="left"> <br>
 </p>  <br>
 
 <br>
