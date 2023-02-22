@@ -42,7 +42,8 @@ Applied the following regression algorithms - Lasso, Ridge, Enet, Random forest 
 <br>
 
 ## Results
-Metrics such as CV (cross validation) score, R2_score and MAE are used to evaluate performance of each model. The Gradient boosting model predicted home prices with highest CV score.
+Metrics such as CV (cross validation) score, R2_score and MAE are used to evaluate performance of each model. <br>
+The Gradient boosting model predicted home prices with highest CV score.
 <br>
 <br>
 
