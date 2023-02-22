@@ -17,6 +17,8 @@ Collected data from a hackathon. It has data of around 50K houses across differe
 <p align = "center">                                                                                                                      
 <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/lat_long.png" width="600" height="500" align="center">
 </p>  
+<br>
+<br>
 <p align="left">
   <img src="https://github.com/thota-sasanth/Home-Valuation/blob/main/heatmap.png" width="500" height="400" align="left">
 </p>
